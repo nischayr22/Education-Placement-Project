@@ -15,7 +15,7 @@ For this project, I utilised a Kaggle dataset (sourced in the notebook) that exp
 9.   Projects_Completed	- Number of academic/technical projects completed (0 to 5)
 10.  Placement - Final placement result (Yes = Placed, No = Not Placed)
 
-The purpose of this project, was to see what features were most likely to be predictors in whether a student would achieve placement or not. Additionally, in doing this, building a machine learning model to predict whether a student will achieve placement or not. Ultimately, an accurate model can be used to determine what areas students need to improve on to increase their chances they will achieve placement.
+The purpose of this project, was to see what features were most likely to be predictors in whether a student would achieve placement or not. Additionally, in doing this, building a machine learning model to predict whether a student will achieve placement or not. Ultimately, an accurate model can be used to determine what areas students need to improve on to increase their chances they will achieve a placement.
 
 ## Notebook
 
