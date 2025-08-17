@@ -27,7 +27,7 @@ For this project I followed through a data analysis and machine learning methodo
 2. Secondly, to make sure the data was ready for analysis it needed to be cleaned of null values, duplicates, outliers and required label encoding as some of the features were objects of boolean value.
 3. The next step, was exploratory data analysis (EDA). This was done to get a view of the relationships of the variables to see the correlation with the target variable (placement) and to check for any multicollinearity that would affect the machine learning model.
 4. After, I utilised hyperparameterisation on multiple models, using GridSearchCV to gain insight on what the best model and its parameters would be to build the most accurate predictor. Models used were: Support Vector Machine, Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbour, and Ridge Regression.
-6. Once the best model is found, I tested all models to gain a view on its precision, training accuracy and testing accuracy to evaluate the models.
+5. Once the best model was found, I tested all models to gain a view on its precision, training accuracy and testing accuracy to evaluate the models.
 
 ## Results
 
